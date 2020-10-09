@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink : /about/
+permalink : /my-offer/
 title: "My Offer"
 ---
 A **computer vision** software engineer with **over 3 years of experience**

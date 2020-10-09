@@ -2,12 +2,12 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: /about/
+  - title: "My Offer"
+    url: /my-offer/
   - title: "Blog"
-    url: /post/
+    url: /blog/
   - title: "CV"
-    url: https://raywu60kg.github.io/
+    url: /cv/
   - title: "Project Portfolio"
     url: /portfolio/
   # - title: "Sample Posts"
