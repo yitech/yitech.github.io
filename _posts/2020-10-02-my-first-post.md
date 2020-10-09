@@ -1,10 +1,8 @@
 ---
+title:  "First post!"
 layout: posts
-title:  "Welcome to my first post!"
 ---
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**, this is my first blog post.
 
-I hope you like it!
-
-Thanks for Jekyll theme [minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/docs/posts/)
+I my try my best to regular update something interesting.  You can see my [project portfolio]() to see what I have done.
