@@ -25,7 +25,7 @@ and all the other various framworks, libraries and technologies related to them.
 
 ## I can help you with all the sides of your project
 - deep learning solutions, including feature detection, feature extraction, object detection, object recognition, object tracking and image segmentation.
-- image processing algorithms, including image matching, space/time domain analysis, morphology, SFM, ranging and depth, etc.
+- image processing algorithms, including image matching, filtering, space/time domain analysis, morphology, ranging and depth, etc.
 - point cloud processing, including feature estimation, point cloud registration, surface reconstruction, 3D perception.
 - statistical optimization, including EM algorithm, Monto Carlo method, reinforcement learning, Bayesian optimization, genetic algorithm.
 - data cleaning, data preprocessing, and data visualization.
@@ -36,7 +36,7 @@ and all the other various framworks, libraries and technologies related to them.
 To inspire a cutting-edge vision algorithm, I have some skills includes
 - Numerical Analysis, including matrix analysis, spectral analysis, convex optimization, FFT, etc.
 - Algorithms, including data structure, graph theory, combinatorics, computational geometry.
-- Statistics and Probability, including Regression, Bayesian theory, time series, reliability analysis, etc.
+- Statistics and Probability, including rsegression, Bayesian theory, time series, reliability analysis, etc.
 - Mathematics, including differential equation, geometry, algebra, vector calculus, etc.
 
 **I also experience in developing a complete AOI process.**

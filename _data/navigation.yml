@@ -7,7 +7,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "CV"
-    url: /cv/
+    url: https://yitech.github.io/cv/
   - title: "Project Portfolio"
     url: /portfolio/
   # - title: "Sample Posts"
