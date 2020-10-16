@@ -53,7 +53,7 @@ Up to now, we have prepared all the simulation data in the algorithm.
 # 1. Segmentation
 
 We quickly brief this part since there are bunch of material of segmentation.  The most popular way is applying segmenntation of Convolution Neural Network(CNN).
-This is a standard *semantic segmentation* problem.  We collect the ground truth and label images on CNN and training.  Some base networks are recommand in this application, [FCN](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
+This is a standard *semantic segmentation* problem.  We collect the ground truth and label images on CNN and training.  Some base networks are recommanded in this application, [FCN](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 and [U-Net](https://arxiv.org/abs/1505.04597).
 
 # 2. 3D Estimation from 2D Observation
