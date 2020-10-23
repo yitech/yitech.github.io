@@ -5,9 +5,9 @@ title: "My Offer"
 ---
 A **computer vision** software engineer with **over 3 years of experience**
 
-I have maintained, developed and launched [multiple projects](), carrying the development of its' algorithm and API codebases.
+I have maintained, developed and launched [multiple projects](/portfolio/), carrying the development of its' algorithm and API codebases.
 
-My current toolset includes
+My current toolset contains
 - Python
 	- Tensorflow
 	- Scikit-Learn
@@ -35,12 +35,12 @@ and all the other various framworks, libraries and technologies related to them.
 ## Computer Vision Algorithm Engineer
 To inspire a cutting-edge vision algorithm, I have some skills includes
 - Numerical Analysis, including matrix analysis, spectral analysis, convex optimization, FFT, etc.
-- Algorithms, including data structure, graph theory, combinatorics, computational geometry.
-- Statistics and Probability, including rsegression, Bayesian theory, time series, reliability analysis, etc.
+- Algorithms, including data structure, graph theory, Combinatorics, computational geometry.
+- Statistics and Probability, including regression, Bayesian theory, time series, reliability analysis, etc.
 - Mathematics, including differential equation, geometry, algebra, vector calculus, etc.
 
 **I also experience in developing a complete AOI process.**
-A complete vision algorithm should start from camera calibration.  To ensure that everytime the data is clean when we recieve, the process flow in every stop becomes quite important.
+A complete vision algorithm should start from camera calibration.  To ensure that every time the data is clean when we receive, the process flow in every stop becomes quite important.
 It consists:
 - camera calibration.
 - focus stacking.
